@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geminii-test-lp/static/css/main.1c6cc986.css",
+    "main.js": "/geminii-test-lp/static/js/main.ec75d721.js",
+    "static/js/453.72a19da2.chunk.js": "/geminii-test-lp/static/js/453.72a19da2.chunk.js",
+    "index.html": "/geminii-test-lp/index.html",
+    "main.1c6cc986.css.map": "/geminii-test-lp/static/css/main.1c6cc986.css.map",
+    "main.ec75d721.js.map": "/geminii-test-lp/static/js/main.ec75d721.js.map",
+    "453.72a19da2.chunk.js.map": "/geminii-test-lp/static/js/453.72a19da2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6cc986.css",
+    "static/js/main.ec75d721.js"
+  ]
+}
